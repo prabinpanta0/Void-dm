@@ -20,8 +20,8 @@ A lightweight, terminal-based display manager specifically designed for Void Lin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/void-display-manager.git
-cd void-display-manager
+git clone https://github.com/prabinpanta0/Void-dm.git
+cd Void-dm
 ```
 
 2. Run the installer:
