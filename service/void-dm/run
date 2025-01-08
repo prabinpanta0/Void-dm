@@ -1,0 +1,5 @@
+#!/bin/sh
+# Service runner for Void Display Manager
+# Location: service/void-dm/run
+
+exec /usr/local/bin/void-dm 2>&1
